@@ -23,7 +23,7 @@ repository               : "salim-hafid/salim-hafid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "larger_format_SALIM.png"
+  avatar           : "larger_format_SALIM.jpg"
   name             : "Salim Hafid"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral researcher @medialab @Sciences Po Paris \n (Paris Institute of Political Studies)"
