@@ -15,6 +15,11 @@ var addressPoints = [
     6.959974
   ],
   [
+    "Journ\u00e9es Infox-sur-Seine<br />; Paris, France",
+    48.8588897,
+    2.320041
+  ],
+  [
     "IJCAI - 6th International Workshop on Democracy & AI<br />; Montreal, Canada",
     45.5031824,
     -73.5698065
