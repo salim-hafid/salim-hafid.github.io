@@ -1,5 +1,5 @@
 ---
-title: "Digital Democracy Workshop Digital Society Initiative"
+title: "Digital Democracy Workshop - UZH Digital Society Initiative (DSI)"
 collection: talks
 type: "Presentation"
 permalink: /talks/2025-10-pres-ddworkshop-zurich
