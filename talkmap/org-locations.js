@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "CheckThat! Workshop - Conference and Labs of the Evaluation Forum (CLEF)<br />; Grenoble, France",
+    45.1875602,
+    5.7357819
+  ],
+  [
     "Brownbag Seminar: Building AI for Democracy<br />Hertie School of Digital Governance; Berlin",
     52.5173885,
     13.3951309
@@ -26,7 +31,7 @@ var addressPoints = [
   ],
   [
     "AI & Democracy Seminar<br />Sorbonne University; Paris",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ]
 ];
