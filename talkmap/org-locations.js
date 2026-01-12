@@ -10,8 +10,13 @@ var addressPoints = [
     6.959974
   ],
   [
+    "Digital Democracy Workshop Digital Society Initiative<br />; Zurich, Switzerland",
+    47.3744489,
+    8.5410422
+  ],
+  [
     "AI & Democracy Seminar<br />Sorbonne University; Paris",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.320041
   ]
 ];
