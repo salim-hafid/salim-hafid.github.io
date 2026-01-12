@@ -10,7 +10,7 @@ var addressPoints = [
     13.3951309
   ],
   [
-    "Digital Democracy Workshop Digital Society Initiative<br />; Zurich, Switzerland",
+    "Digital Democracy Workshop - UZH Digital Society Initiative (DSI)<br />; Zurich, Switzerland",
     47.3744489,
     8.5410422
   ],
@@ -43,5 +43,10 @@ var addressPoints = [
     "AI & Democracy Seminar<br />Sorbonne University; Paris",
     48.8534951,
     2.3483915
+  ],
+  [
+    "2nd Conference of the European Network for Digital Democracy (EDDY-2025)<br />; Paris, France",
+    48.8588897,
+    2.320041
   ]
 ];
