@@ -30,6 +30,11 @@ var addressPoints = [
     2.320041
   ],
   [
+    "Science & Society Press (LUM Magazine) - University of Montpellier<br />; Montpellier, France",
+    43.6112422,
+    3.8767337
+  ],
+  [
     "IJCAI - 6th International Workshop on Democracy & AI<br />; Montreal, Canada",
     45.5031824,
     -73.5698065
