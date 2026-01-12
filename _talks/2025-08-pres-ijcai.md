@@ -2,7 +2,7 @@
 title: "IJCAI - 6th International Workshop on Democracy & AI"
 collection: talks
 type: "Presentation"
-permalink: /talks/2025-18-pres-ijcai
+permalink: /talks/2025-08-pres-ijcai
 date: August 18, 2025
 venue: ""
 location: "Montreal, Canada"
