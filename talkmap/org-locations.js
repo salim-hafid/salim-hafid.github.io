@@ -10,6 +10,11 @@ var addressPoints = [
     6.959974
   ],
   [
+    "IJCAI - 6th International Workshop on Democracy & AI<br />; Montreal, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
     "Digital Democracy Workshop Digital Society Initiative<br />; Zurich, Switzerland",
     47.3744489,
     8.5410422
