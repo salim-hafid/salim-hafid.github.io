@@ -20,6 +20,11 @@ var addressPoints = [
     6.959974
   ],
   [
+    "International Conference for Knowledge Management (CIKM)<br />; Atlanta, USA",
+    33.7544657,
+    -84.3898151
+  ],
+  [
     "Journ\u00e9es Infox-sur-Seine<br />; Paris, France",
     48.8588897,
     2.320041
