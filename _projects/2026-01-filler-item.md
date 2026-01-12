@@ -1,5 +1,6 @@
 ---
 title: "SECTION UNDER CONSTRUCTION"
-excerpt: ""
 collection: project
+permalink: /projects/2026-01-filler-item
+excerpt: ""
 ---
