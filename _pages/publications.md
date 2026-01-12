@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+Below is a list of my publications, which is also available on my [Google Scholar profile](https://scholar.google.com/citations?user=yGhut3QAAAAJ&hl=fr&oi=ao)
+
 Note that in contrast to many other fields, where conferences primarily serve as forums for presenting work later submitted to journals, conferences in Computer Science publish peer-reviewed proceedings that constitute full scholarly publications. **Publications in international conferences in Computer Science are thus often regarded as higher quality and more prestigious than most journals**. This is particularly the case for leading conferences in Artificial Intelligence (AAAI, IJCAI), Machine Learning (ICML, NeurIPS), Natural Language Processing (ACL, EMNLP, CIKM), Information Retrieval (ECIR, SIGIR), and World Wide Web research (Transactions on the Web, WWW) which are widely recognized as the premier outlets for disseminating novel and groundbreaking research. 
 
-International conference ranks were collected in 2025 from the [CORE portal](https://portal.core.edu.au/conf-ranks/) based on the latest CORE update, while international journal ranks were collected from [Scimago](https://www.scimagojr.com/journalrank.php). For instance, **"CORE A" conference means the conference is ranked approx. in the top 15\%** among hundreds of listed conferences in the CORE portal.
+International conference ranks were collected in 2025 from the [CORE portal](https://portal.core.edu.au/conf-ranks/) based on the latest CORE update, while international journal ranks were collected from [Scimago](https://www.scimagojr.com/journalrank.php). For instance, **"CORE A" conference means the conference is ranked approx. in the top 15%** among hundreds of listed conferences in the CORE portal.
 
 ## Working Papers
 - **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Diversity-aware Balanced Justified Representation for Online Deliberation*. **(to be submitted to ICML 2026)**
