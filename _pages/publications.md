@@ -16,7 +16,7 @@ International conference ranks were collected in 2025 from the [CORE portal](htt
 
 ### International journals
 
-- **Salim Hafid**, Sebastian Schellhammer, Thomas Papastergiou, Stefan Dietze, Sandra Bringay, Konstantin Todorov. *An In-depth Analysis of Science Claims on the Web and their Impact on Fact-checking* in ACM Transactions on the Web, 19(3), 1-31. [[Publication]](https://dl.acm.org/doi/full/10.1145/3746170)  [[Code \& Data]](https://github.com/AI-4-Sci/SciWebClaims) 
+- **Salim Hafid**, Sebastian Schellhammer, Thomas Papastergiou, Stefan Dietze, Sandra Bringay, Konstantin Todorov. *An In-depth Analysis of the Linguistic Characteristics of Science Claims on the Web and their Impact on Fact-checking*. in ACM Transactions on the Web, 19(3), 1-31. [[Publication]](https://dl.acm.org/doi/full/10.1145/3746170)  [[Code \& Data]](https://github.com/AI-4-Sci/SciWebClaims) 
 
 ### International conferences
 - Alam F., Struß JM., Chakraborty T., Dietze S., **Salim Hafid**, Korre K., Muti A., Nakov P., Ruggeri F., Schellhammer S., Setty V., Sundriyal M., Todorov K., and Venktesh V. *The CLEF-2025 CheckThat! Lab: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval*. In European Conference on Information Retrieval **(ECIR 2025)** (pp. 467-478). Cham: Springer Nature Switzerland. [[Publication]](https://arxiv.org/pdf/2503.14828) 
