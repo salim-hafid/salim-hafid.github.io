@@ -5,6 +5,11 @@ var addressPoints = [
     13.3951309
   ],
   [
+    "Digital Democracy Workshop Digital Society Initiative<br />; Zurich, Switzerland",
+    47.3744489,
+    8.5410422
+  ],
+  [
     "GESIS Seminar<br />GESIS (Leibniz Institute for the Social Sciences); Cologne, Germany",
     50.938361,
     6.959974
@@ -13,11 +18,6 @@ var addressPoints = [
     "IJCAI - 6th International Workshop on Democracy & AI<br />; Montreal, Canada",
     45.5031824,
     -73.5698065
-  ],
-  [
-    "Digital Democracy Workshop Digital Society Initiative<br />; Zurich, Switzerland",
-    47.3744489,
-    8.5410422
   ],
   [
     "AI & Democracy Seminar<br />Sorbonne University; Paris",
