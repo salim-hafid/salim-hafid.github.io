@@ -12,7 +12,7 @@ Note that in contrast to many other fields, where conferences primarily serve as
 International conference ranks were collected in 2025 from the [CORE portal](https://portal.core.edu.au/conf-ranks/) based on the latest CORE update, while international journal ranks were collected from [Scimago](https://www.scimagojr.com/journalrank.php). For instance, **"CORE A" conference means the conference is ranked approx. in the top 15%** among hundreds of listed conferences in the CORE portal.
 
 ## Working Papers
-- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Diversity-aware Balanced Justified Representation for Online Deliberation*. **(to be submitted to ICML 2026)**
+- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. **(currently under review at ICML 2026)**
 
 ## Peer-reviewed Papers
 
@@ -21,6 +21,8 @@ International conference ranks were collected in 2025 from the [CORE portal](htt
 - **Salim Hafid**, Sebastian Schellhammer, Thomas Papastergiou, Stefan Dietze, Sandra Bringay, Konstantin Todorov. *An In-depth Analysis of the Linguistic Characteristics of Science Claims on the Web and their Impact on Fact-checking*. in ACM Transactions on the Web, 19(3), 1-31. [[Publication]](https://dl.acm.org/doi/full/10.1145/3746170)  [[Code \& Data]](https://github.com/AI-4-Sci/SciWebClaims) 
 
 ### International conferences
+- Julia Maria Struß, Sebastian Schellhammer, Stefan Dietze, Vinay Setty, Tanmoy Chakraborty, Preslav Nakov, Avishek Anand, Primakov Chungkham, **Salim Hafid**, Dhruv Sahnan, Konstantin Todorov. *The CLEF-2026 CheckThat! Lab: Advancing Multilingual Fact-Checking*. **(accepted at ECIR 2026)** [[Publication]]([https://arxiv.org/pdf/2503.14828](https://arxiv.org/pdf/2602.09516))
+  
 - Alam F., Struß JM., Chakraborty T., Dietze S., **Salim Hafid**, Korre K., Muti A., Nakov P., Ruggeri F., Schellhammer S., Setty V., Sundriyal M., Todorov K., and Venktesh V. *The CLEF-2025 CheckThat! Lab: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval*. In European Conference on Information Retrieval **(ECIR 2025)** (pp. 467-478). Cham: Springer Nature Switzerland. [[Publication]](https://arxiv.org/pdf/2503.14828) 
 
 
