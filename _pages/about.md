@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 # About
-I am a currently a post-doctoral researcher at the [medialab](https://medialab.sciencespo.fr/en/) at [Sciences Po](https://www.sciencespo.fr/en/). 
+I am a currently a post-doctoral researcher at the [medialab](https://medialab.sciencespo.fr/en/) at [Sciences Po](https://www.sciencespo.fr/en/). I work on the ["AI for Democracy: Democratic Commons"](https://about.make.org/democratic-commons/landing-page) project under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/).
 
-Previously, I did a PhD in Computer Science at [LIRMM](https://www.lirmm.fr/lirmm-en/), University of Montpellier in France, and was a visiting student at [GESIS](https://www.gesis.org/en/home) (Leibniz Institute for the Social Sciences) in Germany. 
+Previously, I did a PhD in Computer Science at [LIRMM](https://www.lirmm.fr/lirmm-en/), at the University of Montpellier in France, under the supervision of [Konstantin Todorov](https://www.lirmm.fr/konstantin-todorov/) and [Sandra Bringay](https://www.lirmm.fr/~bringay/). I was also a visiting student at [GESIS](https://www.gesis.org/en/home) (Leibniz Institute for the Social Sciences) in Germany. 
 
-My research is situated at the intersection of three scientific fields: Artificial Intelligence (AI) and Natural Language Processing (NLP); Social Choice Theory; and Political Science. It currently focuses on the development of novel hybrid AI models for the study of digital public spaces (social media, online press, and debate platforms). Current applications of my research are mainly situated in Digital Democracy (with use-cases such as AI-assisted moderation of citizen deliberations, algorithmic audits of digital platforms) and Computational Journalism (with use-cases such as automated fact-checking, source-retrieval, modeling and analysis of online debates). 
+My research is situated at the intersection of three fields: Artificial Intelligence, Social Choice Theory, and Political Science. I develop hybrid AI models for participatory democracy platforms and social media. Use-cases I currently focus on include AI-assisted Deliberation and Automated Fact-checking. More generally, I study how AI systems may enhance or undermine democratic processes, and I develop safer AI models aligned with fairness guarantees.
