@@ -12,7 +12,7 @@ Note that in contrast to many other fields, where conferences primarily serve as
 International conference ranks were collected in 2025 from the [CORE portal](https://portal.core.edu.au/conf-ranks/) based on the latest CORE update, while international journal ranks were collected from [Scimago](https://www.scimagojr.com/journalrank.php). For instance, **"CORE A" conference means the conference is ranked approx. in the top 15%** among hundreds of listed conferences in the CORE portal.
 
 ## Working Papers
-- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. **(currently under review at ICML 2026)** [[Code \& Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
+- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. **(currently under review at ICML 2026)** [[Preprint]](https://arxiv.org/abs/2602.15439) [[Code \& Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
 
 ## Peer-reviewed Papers
 
