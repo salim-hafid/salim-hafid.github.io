@@ -6,4 +6,4 @@ permalink: /projects/2025-ai4democracy
 venue: "medialab - Sciences Po (Paris Institute of Political Studies)"
 date: 2025-01-01
 ---
-More at: [https://ai4sci-project.org/](https://about.make.org/democratic-commons/landing-page)
+More at: [https://about.make.org/democratic-commons/landing-page](https://about.make.org/democratic-commons/landing-page)
