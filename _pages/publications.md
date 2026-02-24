@@ -13,6 +13,7 @@ International conference ranks were collected in 2025 from the [CORE portal](htt
 
 ## Working Papers
 - **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. **(currently under review at ICML 2026)** [[Preprint]](https://arxiv.org/abs/2602.15439) [[Code & Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
+- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* (preprint coming soon)
 
 ## Peer-reviewed Papers
 
