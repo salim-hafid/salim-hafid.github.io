@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 # About
-I am a currently a post-doctoral researcher at the [medialab](https://medialab.sciencespo.fr/en/) at [Sciences Po](https://www.sciencespo.fr/en/). I work on the ["AI for Democracy: Democratic Commons"](https://about.make.org/democratic-commons/landing-page) project under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/).
+I am currently a post-doctoral researcher at the [medialab](https://medialab.sciencespo.fr/en/) at [Sciences Po](https://www.sciencespo.fr/en/). I work on the ["AI for Democracy: Democratic Commons"](https://about.make.org/democratic-commons/landing-page) project under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/).
 
-Previously, I did a PhD in Computer Science at [LIRMM](https://www.lirmm.fr/lirmm-en/), at the University of Montpellier in France, under the supervision of [Konstantin Todorov](https://www.lirmm.fr/konstantin-todorov/) and [Sandra Bringay](https://www.lirmm.fr/~bringay/). I was also a visiting student at [GESIS](https://www.gesis.org/en/home) (Leibniz Institute for the Social Sciences) in Germany. 
+Previously, I did a PhD in Computer Science at [LIRMM](https://www.lirmm.fr/lirmm-en/), at the University of Montpellier in France, under the supervision of [Konstantin Todorov](https://www.lirmm.fr/konstantin-todorov/) and [Sandra Bringay](https://www.lirmm.fr/~bringay/). I also did several research visits at [GESIS](https://www.gesis.org/en/home) (Leibniz Institute for the Social Sciences) in Germany, in collaboration with [Stefan Dietze](https://stefandietze.wordpress.com/). 
 
 My research is situated at the intersection of three fields: Artificial Intelligence, Social Choice Theory, and Political Science. Use-cases I currently focus on include: 
 1. **Digital Democracy:** I develop AI systems and algorithms to assist citizens in large-scale participatory democracy platforms (e.g., online deliberations, consultations). I draw on both Social Choice Theory and Political Science to incorporate fairness guarantees in AI models and to align them with democratic principles.
