@@ -1,5 +1,5 @@
 ---
-title: ""EMO-SCI" DFG-ANR Project kick-off, LIRMM, University of Montpellier"
+title: "EMO-SCI DFG-ANR Project kick-off, LIRMM, University of Montpellier"
 collection: talks
 type: "Invited Keynote"
 permalink: /talks/2026-07-keynote-emosci
