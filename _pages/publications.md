@@ -10,7 +10,7 @@ Below is a list of my publications, which is also available on my [Google Schola
 Note that in contrast to many other fields, where conferences primarily serve as forums for presenting work later submitted to journals, conferences in Computer Science publish peer-reviewed proceedings that constitute full scholarly publications. **Publications in international conferences in Computer Science are thus often regarded as higher quality and more prestigious than most journals**. This is particularly the case for leading conferences in Artificial Intelligence (AAAI, IJCAI), Machine Learning (ICML, NeurIPS), Natural Language Processing (ACL, EMNLP, CIKM), Information Retrieval (ECIR, SIGIR), and World Wide Web research (Transactions on the Web, WWW) which are widely recognized as the premier outlets for disseminating novel and groundbreaking research. 
 
 ## Working Papers
-- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* (preprint coming soon)
+- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* [[Preprint]](https://hal.science/hal-05586630v1))
 
 ## Peer-reviewed Papers
 
@@ -19,7 +19,7 @@ Note that in contrast to many other fields, where conferences primarily serve as
 - **Salim Hafid**, Sebastian Schellhammer, Thomas Papastergiou, Stefan Dietze, Sandra Bringay, Konstantin Todorov. *An In-depth Analysis of the Linguistic Characteristics of Science Claims on the Web and their Impact on Fact-checking*. in ACM Transactions on the Web, 19(3), 1-31. [[Publication]](https://dl.acm.org/doi/full/10.1145/3746170)  [[Code & Data]](https://github.com/AI-4-Sci/SciWebClaims) 
 
 ### International conferences
-- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. **(accepted at the Pluralistic Alignment Workshop at ICML 2026)** [[Preprint]](https://arxiv.org/abs/2602.15439) [[Code & Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
+- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. in Pluralistic Alignment Workshop at ICML 2026. [[Publication]](https://openreview.net/pdf?id=kMeny2IJF0) [[Code & Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
   
 - Julia Maria Struß, Sebastian Schellhammer, Stefan Dietze, Vinay Setty, Tanmoy Chakraborty, Preslav Nakov, Avishek Anand, Primakov Chungkham, **Salim Hafid**, Dhruv Sahnan, Konstantin Todorov. *The CLEF-2026 CheckThat! Lab: Advancing Multilingual Fact-Checking*. **(accepted at ECIR 2026)** [[Publication]](https://arxiv.org/pdf/2602.09516)
   
