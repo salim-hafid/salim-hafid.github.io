@@ -19,7 +19,7 @@ Note that in contrast to many other fields, where conferences primarily serve as
 - **Salim Hafid**, Sebastian Schellhammer, Thomas Papastergiou, Stefan Dietze, Sandra Bringay, Konstantin Todorov. *An In-depth Analysis of the Linguistic Characteristics of Science Claims on the Web and their Impact on Fact-checking*. in **ACM Transactions on the Web**, 19(3), 1-31. [[Publication]](https://dl.acm.org/doi/full/10.1145/3746170)  [[Code & Data]](https://github.com/AI-4-Sci/SciWebClaims) 
 
 ### International conferences
-- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. in Pluralistic Alignment Workshop at **ICML 2026**. [[Publication]](https://openreview.net/pdf?id=kMeny2IJF0) [[Code & Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation)
+- **Salim Hafid**, Manon Berriche, and Jean-Philippe Cointet. *Algorithmic Approaches to Opinion Selection for Online Deliberation: A Comparative Study*. in Pluralistic Alignment Workshop at **ICML 2026**. [[Publication]](https://openreview.net/pdf?id=kMeny2IJF0) [[Code & Data]](https://github.com/SalimHFX/Algorithms-for-Opinion-Selection-in-Deliberation) [[Poster]](https://drive.google.com/file/d/1yleC5MSM_zyix2n9WQ7uSz3u_9MyAmQQ/view)
   
 - Julia Maria Struß, Sebastian Schellhammer, Stefan Dietze, Vinay Setty, Tanmoy Chakraborty, Preslav Nakov, Avishek Anand, Primakov Chungkham, **Salim Hafid**, Dhruv Sahnan, Konstantin Todorov. *The CLEF-2026 CheckThat! Lab: Advancing Multilingual Fact-Checking*. In European Conference on Information Retrieval **(ECIR 2026)** (pp. 325-335). Cham: Springer Nature Switzerland. [[Publication]](https://arxiv.org/pdf/2602.09516)
   
