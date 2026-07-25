@@ -10,7 +10,9 @@ Below is a list of my publications, which is also available on my [Google Schola
 Note that in contrast to many other fields, where conferences primarily serve as forums for presenting work later submitted to journals, conferences in Computer Science publish peer-reviewed proceedings that constitute full scholarly publications. **Publications in international conferences in Computer Science are thus often regarded as higher quality and more prestigious than most journals**. This is particularly the case for leading conferences in Artificial Intelligence (AAAI, IJCAI), Machine Learning (ICML, NeurIPS), Natural Language Processing (ACL, EMNLP, CIKM), Information Retrieval (ECIR, SIGIR), and World Wide Web research (Transactions on the Web, WWW) which are widely recognized as the premier outlets for disseminating novel and groundbreaking research. 
 
 ## Working Papers
-- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* [[Preprint]](https://hal.science/hal-05586630v1))
+- Pierre-Antoine Lequeu, **Salim Hafid**, Paul Lerner, Nazanin Shafiabadi, Laurène Cave, Jean-Philippe Cointet, David Mas, Benjamin Piwowarski, François Yvon (2026). *Toward Collective-Centric Evaluation of Preference Inference for Participatory Democracy* **(under review at AAAI2027)**.
+- Manon Berriche, **Salim Hafid**, Andreï Mogoutov, Jean-Philippe Cointet (2026). *Characterizing Democratic Biases in AI-Powered Participatory Democracy Platforms*. *(upcoming preprint)*.
+- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* (2026). [[Preprint]](https://hal.science/hal-05586630v1))
 
 ## Peer-reviewed Papers
 
