@@ -11,8 +11,8 @@ Note that in contrast to many other fields, where conferences primarily serve as
 
 ## Working Papers
 - Pierre-Antoine Lequeu, **Salim Hafid**, Paul Lerner, Nazanin Shafiabadi, Laurène Cave, Jean-Philippe Cointet, David Mas, Benjamin Piwowarski, François Yvon (2026). *Toward Collective-Centric Evaluation of Preference Inference for Participatory Democracy* **(under review at AAAI2027)**. [[Preprint]](https://arxiv.org/pdf/2609.02990) [[Code]](https://github.com/LequeuISIR/PrefInferenceEval) [[Data]](https://huggingface.co/collections/democratic-commons/citizens-consultations)
-- Manon Berriche, **Salim Hafid**, Andreï Mogoutov, Jean-Philippe Cointet (2026). *Characterizing Democratic Biases in AI-Powered Participatory Democracy Platforms*. *(upcoming preprint)*.
-- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* (2026). [[Preprint]](https://hal.science/hal-05586630v1))
+- Manon Berriche, **Salim Hafid**, Andreï Mogoutov, Jean-Philippe Cointet (2026). *Characterizing Democratic Biases in AI-Powered Participatory Democracy Platforms*. **(upcoming preprint)**.
+- **Salim Hafid**, Sandra Bringay, Konstantin Todorov. *Scientific Web Claims: A survey of definitions, tasks, datasets and methods* (2026). **(under review at ACM Computing Surveys)** [[Preprint]](https://hal.science/hal-05586630v1))
 
 ## Peer-reviewed Papers
 
