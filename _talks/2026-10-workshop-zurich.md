@@ -1,8 +1,8 @@
 ---
-title: "(Upcoming) Digital Publics Conference, ETH Zurich"
+title: "Digital Publics Conference, ETH Zurich"
 collection: talks
 type: "Invited talk"
-permalink: /talks/2026-06-workshop-ai4ad
+permalink: /talks/2026-10-workshop-zurich
 date: October 21, 2026
 venue: ""
 location: "Zurich, Switzerland"
